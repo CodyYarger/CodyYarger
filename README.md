@@ -1,1 +1,1 @@
-Engineer with over 10 years of experience in the aerospace industry as a researcher, analyst, and production support specialist with past project support for NASA, DARPA and Boeing. Instructor Assistant at the University of Washington for the Certificate in Python Programming.
+Engineer with over 10 years of experience in aerospace structures as a researcher, analyst, and production support specialist with past project support for NASA, DARPA and Boeing.
